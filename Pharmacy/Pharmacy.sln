@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharmacy", "Pharmacy.csproj", "{562BC8BB-194F-4CC2-81E9-3AF6F3C85D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{16343434-568D-4329-BB9C-75147502B601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bussness", "..\Bussness\Bussness.csproj", "{67DBBA0C-4181-46F4-8893-F7E04FF687DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562BC8BB-194F-4CC2-81E9-3AF6F3C85D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562BC8BB-194F-4CC2-81E9-3AF6F3C85D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562BC8BB-194F-4CC2-81E9-3AF6F3C85D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562BC8BB-194F-4CC2-81E9-3AF6F3C85D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16343434-568D-4329-BB9C-75147502B601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16343434-568D-4329-BB9C-75147502B601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16343434-568D-4329-BB9C-75147502B601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16343434-568D-4329-BB9C-75147502B601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DBBA0C-4181-46F4-8893-F7E04FF687DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DBBA0C-4181-46F4-8893-F7E04FF687DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DBBA0C-4181-46F4-8893-F7E04FF687DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DBBA0C-4181-46F4-8893-F7E04FF687DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+C:\Users\jdjdh\source\repos\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\jdjdh\source\repos\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\jdjdh\source\repos\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\jdjdh\source\repos\Pharmacy\bin\Debug\Bussness.dll
+C:\Users\jdjdh\source\repos\Pharmacy\bin\Debug\DataAccess.dll
+C:\Users\jdjdh\source\repos\Pharmacy\bin\Debug\Bussness.pdb
+C:\Users\jdjdh\source\repos\Pharmacy\bin\Debug\DataAccess.pdb
+C:\Users\jdjdh\source\repos\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+C:\Users\jdjdh\source\repos\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\jdjdh\source\repos\Pharmacy\obj\Debug\Pharmacy.csproj.Up2Date
+C:\Users\jdjdh\source\repos\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\jdjdh\source\repos\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\bin\Debug\Bussness.dll
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\bin\Debug\DataAccess.dll
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\bin\Debug\Bussness.pdb
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\bin\Debug\DataAccess.pdb
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\obj\Debug\Pharmacy.csproj.Up2Date
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\jdjdh\source\repos\Pharmacy Project\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\bin\Debug\Bussness.dll
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\bin\Debug\DataAccess.dll
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\bin\Debug\Bussness.pdb
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\bin\Debug\DataAccess.pdb
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\obj\Debug\Pharmacy.csproj.Up2Date
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\jdjdh\source\repos\Pharmacy Project console\Pharmacy\obj\Debug\Pharmacy.pdb
